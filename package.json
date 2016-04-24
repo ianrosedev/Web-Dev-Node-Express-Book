@@ -8,6 +8,10 @@
   },
   "author": "Ian Rose",
   "license": "ISC",
+	"repository": {
+    "type": "git",
+    "url": "git+https://github.com/ianrosedev/web-dev-node-express-book.git"
+  },
   "dependencies": {
     "express": "^4.13.4",
     "express-handlebars": "^3.0.0"
