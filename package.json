@@ -2,7 +2,7 @@
   "name": "meadowlark.js",
   "version": "1.0.0",
   "description": "Web Development with Node and Express Project",
-  "main": "meadowlark.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
